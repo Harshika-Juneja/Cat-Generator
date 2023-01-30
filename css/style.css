@@ -1,0 +1,23 @@
+.container{
+    border: 1px solid black;
+    width: 75%;
+    margin: 0 auto;
+    text-align: center;
+}
+button{
+    color:white;
+    background-color: rgb(11, 206, 11);
+    padding: 10px;
+}
+.flex-box img{
+    margin: 10px;
+    box-shadow: 0px 10px 50px rgba(0,0,0,0.7);
+}
+.flex-box{
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: space-around;
+    border: 1px solid black;
+    padding: 10px;
+
+}
